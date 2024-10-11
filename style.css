@@ -201,6 +201,7 @@ nav {
 .categories-container1{
     display: flex;
     background-color: var(--secondary-color);
+    padding:5%;
 }
 
 .image-container{
